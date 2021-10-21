@@ -1,0 +1,38 @@
+Batting: (assumes right-handed batsman)
+
+Moving: (can only move when not charging a shot)
+
+A - move left
+S - move down
+D - move right
+W - move up
+
+Front-foot (O):
+
+A - square drive
+Z - cover drive
+X - straight drive
+C - on drive
+D - pull
+E - sweep
+Q - late cut
+S - defensive
+
+Back-foot (P):
+
+A - cut
+Z - backfoot cover drive
+X - backfoot straight drive
+C - backfoot on drive
+D - hook
+E - leg glance
+Q - upper cut
+S - backfoot defensive
+
+hold O/P and a shot to charge power and release the buttons to play the shot
+
+Bowling:
+
+O - selects delivery type & marker
+hold O when running in to charge speed
+hold O when delivering to charge amount of swing/seam/spin
